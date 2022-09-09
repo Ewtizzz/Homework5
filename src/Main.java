@@ -54,7 +54,7 @@ public class Main {
                 System.out.println("Осень");
                 break;
             default:
-                System.out.println("неккоректный месяц");
+                System.out.println("Неккоректный месяц");
         }
     }
 
